@@ -10,3 +10,20 @@ gcloud auth list
 ```
 gcloud config set account rahul.wagh.gcloud@jhooq.com
 ```
+
+# Gcloud Login
+
+## Auth Login
+```
+gcloud auth login
+```
+
+## Application default login
+```
+gcloud auth application-default-login
+```
+
+## Application default login with scopes
+```
+gcloud auth application-default-login --scopes 
+```
