@@ -5,8 +5,8 @@
 gcloud auth list
 ```
 
-## Show authenticated accounts with email, token, active config
+## Set the account 
 
 ```
-gcloud auth describe
+gcloud config set account rahul.wagh.gcloud@jhooq.com
 ```
