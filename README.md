@@ -20,7 +20,7 @@ gcloud auth login
 
 ## Application default login
 ```
-gcloud auth application-default-login
+gcloud auth application-default login
 ```
 
 ## Application default login with scopes
