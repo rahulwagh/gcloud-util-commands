@@ -34,3 +34,8 @@ gcloud auth application-default-login --scopes
 ```
 gcloud config unset project
 ```
+
+## Get current project name 
+```
+gcloud config get-value project
+```
