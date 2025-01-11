@@ -27,3 +27,10 @@ gcloud auth application-default login
 ```
 gcloud auth application-default-login --scopes 
 ```
+
+# Gcloud Project 
+
+## Unset/remove project
+```
+gcloud config unset project
+```
